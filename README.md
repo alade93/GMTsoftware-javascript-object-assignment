@@ -1,0 +1,1 @@
+# GMTsoftware-javascript-object-assignment
